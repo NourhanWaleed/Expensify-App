@@ -1,8 +1,14 @@
-#Install dependencies
+# Install dependencies
+```
  npm i
+```
 
-#Build the project
+# Build the project
+```
  npm run build:prod
+```
 
-#Start the server
+# Start the server
+```
  npm run start
+ ```
